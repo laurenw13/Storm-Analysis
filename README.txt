@@ -1,0 +1,1 @@
+As of 4/23: Current skeleton. scroller.js takes care of the scrolling. All visualization code goes in main.js. Each <section class="step"> in index.html represents the text of one visualization on the webpage. Actual visualizations are displayed in the <div id="vis"> part of the document.
